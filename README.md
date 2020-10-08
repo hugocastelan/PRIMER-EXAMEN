@@ -37,7 +37,9 @@
   5. Relice un alineamiento multiple utilizando ClustalW 
   6. Relice un alineamiento multiple con MUSCLE elminie la redundancia de 97% ¿Cuantas secuencais quedan al final?
   7. Apartir de las siguiente secuencia identifique a que organismos pertence, puede utilizar el sevidor Genome Peek 
-                     >sequence1     
+                    
+                    
+                    >sequence1     
                     TAAGTTATTATTTAGTTAATACTTTTAACAATATTATTAAGGTATTTAAAAAATACTATTATAGTATTTA
                     ACATAGTTAAATACCTTCCTTAATACTGTTAAATTATATTCAATCAATACATATATAATATTATTAAAAT
                     ACTTGATAAGTATTATTTAGATATTAGACAAATACTAATTTTATATTGCTTTAATACTTAATAAATACTA
@@ -1960,8 +1962,12 @@
                     TAACCTTTAATAGTGATCCATTCACTACGAATTACATAACCTTTGTGCTGCTTTTTAACACTTAAACACC
                     CCTCACCACTTTCTAAAAATGCTTTATTTTCACTTTGATCAATAATTTTAGGATTGATCAGTAGGCACTT
 
+ 
   8. ¿Cuantos ORF codifican para proteínas reportas cuando se selecciona un mínimo de ORF lenght de 300?
   9. ¿Es una genoma o un plásmido?
   10. Los ORF4 Y ORF20 para que codifican 
   11. Utilizando la base de datos de PFAM y la secuencia de aminoacidos de los ORF4 y ORF20 tienen algun dominio funcional
-  12. Ulizando la secuencia anterior en MEME idenfique cuantos motifs tiene restringiendo la búsqueda 
+  12. Utizando la secuencia anterior en MEME idenfique cuantos motifs tiene restringiendo la búsqueda 
+  13. A partir de la siguiente secuencia idenfique los promoteres y teminadores 
+  
+                                    
